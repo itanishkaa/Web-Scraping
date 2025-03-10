@@ -25,3 +25,7 @@ Uses a Jupyter notebook *(nba.ipynb)* to process and analyze the data.
 Includes scraped HTML pages for MVPs, players, and teams from 1991 to 2021.
 
 For more details, check *`NBA stats/README.md.`*
+
+## Disclaimer
+
+This script is for educational purposes only. Scraping websites without permission may violate terms of service.
