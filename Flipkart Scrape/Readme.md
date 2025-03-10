@@ -18,7 +18,7 @@ python scrape.py
 ```
 - View extracted data
 - The scraped data will be saved in flipkart_mobile_under_50000.csv.
-- 
+
 ## Technologies Used
 - Python
 - BeautifulSoup (for parsing HTML)
